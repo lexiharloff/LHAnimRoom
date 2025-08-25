@@ -1,0 +1,1 @@
+var gamefiles = ['LHAnimRoom.ags', 'acsetup.cfg'];
