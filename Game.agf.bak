@@ -2498,7 +2498,7 @@
             <MovementSpeed>4</MovementSpeed>
             <MovementSpeedX>3</MovementSpeedX>
             <MovementSpeedY>0</MovementSpeedY>
-            <NormalView>1</NormalView>
+            <NormalView>5</NormalView>
             <Properties />
             <RealName>Roger</RealName>
             <ScriptName>cEgo</ScriptName>
@@ -2506,9 +2506,9 @@
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
             <SpeechView>0</SpeechView>
-            <StartX>165</StartX>
-            <StartY>392</StartY>
-            <StartingRoom>2</StartingRoom>
+            <StartX>494</StartX>
+            <StartY>269</StartY>
+            <StartingRoom>3</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
             <TurnWhenFacing>True</TurnWhenFacing>
@@ -5605,57 +5605,64 @@
                         <Frames>
                           <ViewFrame>
                             <Delay>0</Delay>
-                            <Flipped>False</Flipped>
+                            <Flipped>True</Flipped>
                             <ID>0</ID>
-                            <Image>16</Image>
+                            <Image>14</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
-                            <Image>17</Image>
+                            <Image>16</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
-                            <Image>18</Image>
+                            <Image>17</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>3</ID>
-                            <Image>19</Image>
+                            <Image>18</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>4</ID>
-                            <Image>20</Image>
+                            <Image>19</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>5</ID>
-                            <Image>21</Image>
+                            <Image>20</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>6</ID>
-                            <Image>22</Image>
+                            <Image>21</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>7</ID>
+                            <Image>22</Image>
+                            <Sound>0</Sound>
+                          </ViewFrame>
+                          <ViewFrame>
+                            <Delay>0</Delay>
+                            <Flipped>False</Flipped>
+                            <ID>8</ID>
                             <Image>23</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
@@ -5667,57 +5674,64 @@
                         <Frames>
                           <ViewFrame>
                             <Delay>0</Delay>
-                            <Flipped>True</Flipped>
+                            <Flipped>False</Flipped>
                             <ID>0</ID>
-                            <Image>16</Image>
+                            <Image>14</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>1</ID>
-                            <Image>17</Image>
+                            <Image>16</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>2</ID>
-                            <Image>18</Image>
+                            <Image>17</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>3</ID>
-                            <Image>19</Image>
+                            <Image>18</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>4</ID>
-                            <Image>20</Image>
+                            <Image>19</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>5</ID>
-                            <Image>21</Image>
+                            <Image>20</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>6</ID>
-                            <Image>22</Image>
+                            <Image>21</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>True</Flipped>
                             <ID>7</ID>
+                            <Image>22</Image>
+                            <Sound>0</Sound>
+                          </ViewFrame>
+                          <ViewFrame>
+                            <Delay>0</Delay>
+                            <Flipped>True</Flipped>
+                            <ID>8</ID>
                             <Image>23</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
@@ -5729,57 +5743,64 @@
                         <Frames>
                           <ViewFrame>
                             <Delay>0</Delay>
-                            <Flipped>False</Flipped>
+                            <Flipped>True</Flipped>
                             <ID>0</ID>
-                            <Image>16</Image>
+                            <Image>14</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
-                            <Image>17</Image>
+                            <Image>16</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
-                            <Image>18</Image>
+                            <Image>17</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>3</ID>
-                            <Image>19</Image>
+                            <Image>18</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>4</ID>
-                            <Image>20</Image>
+                            <Image>19</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>5</ID>
-                            <Image>21</Image>
+                            <Image>20</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>6</ID>
-                            <Image>22</Image>
+                            <Image>21</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>7</ID>
+                            <Image>22</Image>
+                            <Sound>0</Sound>
+                          </ViewFrame>
+                          <ViewFrame>
+                            <Delay>0</Delay>
+                            <Flipped>False</Flipped>
+                            <ID>8</ID>
                             <Image>23</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
@@ -5791,57 +5812,64 @@
                         <Frames>
                           <ViewFrame>
                             <Delay>0</Delay>
-                            <Flipped>False</Flipped>
+                            <Flipped>True</Flipped>
                             <ID>0</ID>
-                            <Image>16</Image>
+                            <Image>14</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
-                            <Image>17</Image>
+                            <Image>16</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
-                            <Image>18</Image>
+                            <Image>17</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>3</ID>
-                            <Image>19</Image>
+                            <Image>18</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>4</ID>
-                            <Image>20</Image>
+                            <Image>19</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>5</ID>
-                            <Image>21</Image>
+                            <Image>20</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>6</ID>
-                            <Image>22</Image>
+                            <Image>21</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
                             <Delay>0</Delay>
                             <Flipped>False</Flipped>
                             <ID>7</ID>
+                            <Image>22</Image>
+                            <Sound>0</Sound>
+                          </ViewFrame>
+                          <ViewFrame>
+                            <Delay>0</Delay>
+                            <Flipped>False</Flipped>
+                            <ID>8</ID>
                             <Image>23</Image>
                             <Sound>0</Sound>
                           </ViewFrame>
